@@ -1,0 +1,31 @@
+{
+  "name": "around-the-world",
+  "version": "1.0.0",
+  "description": "Ever seen a picture and wonder where that photo was taken. This web application allows users to explore aesthetic photos around the world. Users can post photos with a gps location of the photo. Great for photographers looks for a great snap shot for their portfolio.",
+  "main": ".eslintrc.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-redux": "^7.1.0",
+    "redux": "^4.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjlagman12/Around-The-World.git"
+  },
+  "keywords": [
+    "world"
+  ],
+  "author": "bjl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bjlagman12/Around-The-World/issues"
+  },
+  "homepage": "https://github.com/bjlagman12/Around-The-World#readme"
+}
